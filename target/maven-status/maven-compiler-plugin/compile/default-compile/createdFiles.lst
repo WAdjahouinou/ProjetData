@@ -1,0 +1,5 @@
+fr\project\info\functions\DatasetFilterRow.class
+fr\project\info\functions\DatasetTextFileReader.class
+fr\project\info\Main.class
+fr\project\info\functions\MontantTotal.class
+fr\project\info\functions\DatasetCsvWritter.class
